@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhlakur Rahman</h1>
+<h2 align="center">Hi 👋, I'm Akhlakur Rahman</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
