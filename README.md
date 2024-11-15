@@ -1,13 +1,5 @@
 <h2 align="center">Hi 👋, I'm Akhlakur Rahman</h2>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,vscode,pycharm&perline=10" />
-  </a>
-</div>
-
-<h4 align="center">Let's Connect..! 🤝</h4> 
-
 
 <p align="center">
 <a href="https://codeforces.com/profile/parina_bhai" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="parina_bhai" height="30" width="120" /></a>
